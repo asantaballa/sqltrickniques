@@ -1,0 +1,2 @@
+# sqltrickniques
+SQL Trickniques
