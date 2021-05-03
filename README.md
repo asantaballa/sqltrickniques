@@ -5,4 +5,6 @@ A repo to store various tips/trick/techniques for SQL. Mostly SQL Server, but ma
 
 
 * FindInProcedures: Script to find string in procedures.
-* SpToTempTable: Get arbitrary results of a stored procedure into a temp table,
+* SpToTempTable: Get arbitrary results of a stored procedure into a temp table.
+
+--
